@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+  <title id="title">Zaineb Gharib — Software Engineering and Applied AI</title>
+  <desc id="desc">Minimal navy banner with blue geometric network lines and professional title.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#0D1117"/>
+      <stop offset="1" stop-color="#17243A"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" x2="1">
+      <stop offset="0" stop-color="#59A6E8"/>
+      <stop offset="1" stop-color="#8DB8E6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="280" rx="16" fill="url(#background)"/>
+  <path d="M0 277 H1200" stroke="#386B9D" stroke-width="3"/>
+  <rect x="55" y="48" width="4" height="179" rx="2" fill="url(#accent)"/>
+  <text x="86" y="91" fill="#99B9D3" font-family="Arial,Helvetica,sans-serif" font-size="21" font-weight="600" letter-spacing="3">SOFTWARE ENGINEERING  /  APPLIED AI</text>
+  <text x="82" y="162" fill="#F2F6FC" font-family="Arial,Helvetica,sans-serif" font-size="62" font-weight="700">Zaineb Gharib</text>
+  <text x="86" y="208" fill="#B9CADC" font-family="Arial,Helvetica,sans-serif" font-size="25">Research-minded engineering. Reproducible results.</text>
+  <g fill="none" stroke="#5489BA" stroke-width="2" opacity=".65">
+    <path d="M895 64 L976 38 L1076 84 L1139 147 L1097 220 L1001 241 L912 198 L876 128 Z"/>
+    <path d="M895 64 L1076 84 L1001 241 L976 38 L1139 147 L912 198 L1097 220 L876 128 L1001 241"/>
+  </g>
+  <g fill="#70A8DB">
+    <circle cx="895" cy="64" r="5"/><circle cx="976" cy="38" r="5"/>
+    <circle cx="1076" cy="84" r="5"/><circle cx="1139" cy="147" r="5"/>
+    <circle cx="1097" cy="220" r="5"/><circle cx="1001" cy="241" r="5"/>
+    <circle cx="912" cy="198" r="5"/><circle cx="876" cy="128" r="5"/>
+  </g>
+</svg>
